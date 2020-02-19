@@ -1,3 +1,3 @@
 public class BestApp {
-    public void main 
+    public void main(String[] args) 
 }
